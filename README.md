@@ -18,3 +18,6 @@ Kaggle links of these projects:
 11. [Autoencoders Wirh Keras](https://www.kaggle.com/code/ihsncnkz/autoencoders-wirh-keras)
 12. [Sing-Language With GANs - Keras](https://www.kaggle.com/code/ihsncnkz/sing-language-with-gans-keras)
 
+[My Kaggle Profile](https://www.kaggle.com/ihsncnkz)
+[My Linkedin Profile](https://www.linkedin.com/in/ihsan-cenk%C4%B1z-b070a7154/)
+[DATAITEM Udemy Profile](https://www.udemy.com/user/datai-team/)
